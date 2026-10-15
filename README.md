@@ -1,6 +1,6 @@
 # VitalSync Healthcare Dashboard 🏥📊
 
-**DEPI Project**
+**DEPI | Junior Data Analyst Project**
 
 ## 👥 Team Members
 1. **Ahmed Amr Saad ElBatrawy**
