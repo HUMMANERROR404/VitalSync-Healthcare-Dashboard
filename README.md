@@ -1,6 +1,6 @@
 # VitalSync Healthcare Dashboard 🏥📊
 
-**DEPI Project - Phase 1 Documentation**
+**DEPI Project**
 
 ## 👥 Team Members
 1. **Ahmed Amr Saad ElBatrawy**
